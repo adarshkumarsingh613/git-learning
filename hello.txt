@@ -1,3 +1,5 @@
-hello git
+
+
+welcome to git worldhello git
 i am adarsh kumar singh i start learning version control 
 system with in ubuntu linux terminal
